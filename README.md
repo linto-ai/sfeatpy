@@ -1,5 +1,5 @@
 # SFeatPy
-![version](https://img.shields.io/github/manifest-json/v/linto-ai/sfeatpy/release)   [![pypi version](https://img.shields.io/pypi/v/sfeatpy)](https://pypi.org/project/sfeatpy/)
+![version](https://img.shields.io/github/manifest-json/v/linto-ai/sfeatpy)   [![pypi version](https://img.shields.io/pypi/v/sfeatpy)](https://pypi.org/project/sfeatpy/)
 ## Introduction
 
 Python library to extract MFCC parameters.
